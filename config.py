@@ -1,7 +1,7 @@
 import os
 
-BOT_TOKEN = os.environ.get('5167642424:AAFLzd5mphPRA3YbjuRUCmPjDEbz16Rz4H0','')
-TG_API_ID = os.environ.get('17232014',0)
-TG_API_HASH = os.environ.get('5eb747e0b34842c90a32af2df2364e32','')
-TG_ADMIN_USER = os.environ.get('hunter4345','tigerpu')
+BOT_TOKEN = os.environ.get('5185645320:AAF0Mw9tcoosP5zcF1wGUPx2CxKlpBWCnjA','')
+TG_API_ID = os.environ.get('2807393',0)
+TG_API_HASH = os.environ.get('461442bb53a6aba12de5a4728a53ac1f','')
+TG_ADMIN_USER = os.environ.get('ALejandrito2')
 ROOT_DIR = 'root'
